@@ -1,0 +1,54 @@
+.shipping_btn {
+  margin-top: 30px;
+  margin-left:280px ;
+}
+
+.form_css {
+  margin-top: 20px;
+}
+
+.shipping_card{
+    margin-top: 20px;
+    border: 5px solid lightgray;
+    background-color: #f2f2f2;
+    margin-left: 10px;
+}
+
+.amt_card{
+    margin-top: 20px;
+    border: 5px solid lightgray;
+    background-color: #f2f2f2;
+    margin-right: 10px;
+}
+
+.heading_one{
+    text-align: center;
+
+}
+
+.label{
+    margin-left: 50px;
+}
+
+.price_checkout{
+    margin-left: 130px;
+}
+
+.quantity_css{
+    margin-left: 130px;
+
+}
+
+.totalamt_css{
+    margin-left: 300px;
+
+}
+
+.subtotal_css{
+    margin-left: 340px;
+}
+
+.shipping_css{
+    margin-left: 340px;
+}
+

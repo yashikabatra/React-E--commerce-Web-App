@@ -1,0 +1,37 @@
+.ant-carousel .slick-dots-bottom {
+  bottom: -35px;
+}
+
+body {
+  background-color: #f2f2f2 !important;
+}
+.coltwo{
+  margin-left: 30px;
+}
+
+
+.imgone{
+width:100px;
+height:700px;
+padding:10px;
+}
+
+.buttonone{
+  margin-top: 30px;
+}
+
+.size{
+  margin-top: 30px;
+}
+
+.price{
+  margin-top: 30px;
+}
+
+.description{
+  margin-top: 30px;
+}
+
+.brand{
+  margin-top: 30px;
+}

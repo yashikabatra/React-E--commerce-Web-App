@@ -1,0 +1,33 @@
+.card_one {
+  width: 95%;
+  height: 200px;
+  background-color: #f2f2f2;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border: 5px solid lightgray;
+  background-color: #f2f2f2;
+}
+
+
+.card_two{
+    background-color: #f2f2f2;
+    margin-top: 10px;
+    border: 5px solid lightgray;
+    background-color: #f2f2f2;
+    margin-right: 20px;
+
+}
+.css_for_brand{
+    margin-left: 50px;
+}
+
+.css_for_price{
+margin-left: 420px;
+}
+
+.qty_css{
+    margin-top: 10px;
+}
+

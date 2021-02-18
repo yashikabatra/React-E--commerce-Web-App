@@ -1,0 +1,15 @@
+.Card {
+    width: 300px;
+    height:300px;
+    margin: 0;
+    background:lightgray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.loginheading{
+    margin-bottom: 20px;
+}

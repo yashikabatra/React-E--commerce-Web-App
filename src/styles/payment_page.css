@@ -1,0 +1,21 @@
+.payment_card{
+    height:550px;
+    width: 800px;
+    background-color: #f2f2f2;
+    margin-top: 60px;
+    margin-left: 330px;
+    border: 5px solid lightgray;
+}
+
+.payment_button{
+    margin-left: 330px;
+    margin-top: 30px;
+}
+
+.heading_payment{
+    margin-top:5px;
+    margin-left: 125px;
+    margin-bottom: 20px;
+}
+
+
