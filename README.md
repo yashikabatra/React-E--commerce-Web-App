@@ -1,6 +1,6 @@
 ## Screenshots
 
-![Ecommerce Screenshot](Screenshots/Screenshot 19-02-2021 00_55_18.png?raw=true "Title")
+![Screenshot](Screenshots/Screenshot 19-02-2021 00_55_18.png)
 
 # Getting Started with Create React App
 
