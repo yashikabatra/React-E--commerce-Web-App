@@ -1,6 +1,15 @@
 ## Screenshots
 
-![Screenshot](Screenshots/Screenshot 19-02-2021 00_55_18.png)
+![Screenshot](../master/Screenshots/1.png)
+![Screenshot](../master/Screenshots/2.png)
+![Screenshot](../master/Screenshots/3.png)
+![Screenshot](../master/Screenshots/4.png)
+![Screenshot](../master/Screenshots/5.png)
+![Screenshot](../master/Screenshots/6.png)
+![Screenshot](../master/Screenshots/7.png)
+
+
+
 
 # Getting Started with Create React App
 
